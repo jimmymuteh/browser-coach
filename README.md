@@ -25,13 +25,7 @@ Each submission appends a record to a session history table. The history persist
 ##  Built With
 
 - HTML5
-- CSS3
-- ES6+ JavaScript
+- JavaScript
 
 ---
 
-## Local Setup
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/jimmymuteh/browser-coach.git](https://github.com/jimmymuteh/browser-coach.git)
